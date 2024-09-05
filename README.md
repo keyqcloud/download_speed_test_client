@@ -37,3 +37,10 @@ Clone the repository and install the npm packages
 git clone https://github.com/keyqcloud/download_speed_test_client
 npm install
 ```
+
+Open a tmux session to run the program
+```
+tmux
+node <script-name>.js
+```
+To detach from a session, press `Ctrl-b + d`
